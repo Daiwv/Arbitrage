@@ -1,0 +1,16 @@
+{
+  "abcc": {
+    "default": {
+      "name": "abcc default",
+      "username": "",
+      "password": "",
+      "symbols": "ethbtc"
+    },
+    "arbitrage": {
+      "name": "abcc arbitrage",
+      "username": "",
+      "password": "",
+      "symbols": "at,ltc,qtum,bch,eos,xrp,dash,etc,yee,zrx,omg,ttu,icx,ada"
+    }
+  }
+}
