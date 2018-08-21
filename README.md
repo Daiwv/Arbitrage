@@ -3,13 +3,13 @@
 
 ![npm](https://img.shields.io/badge/Project-Arbitrage-blue.svg?style=plastic)
 ![npm](https://img.shields.io/badge/Status-Devloping-blue.svg?style=plastic)
-![npm](https://img.shields.io/badge/Made%20by-OpenInfoGraphic-blue.svg?style=plastic)
+![npm](https://img.shields.io/badge/Made%20by-paulplayer-blue.svg?style=plastic)
 
 ![Nodejs](https://img.shields.io/badge/Node.js-%3E%3D8.11.0-orange.svg?style=plastic)
 ![npm](https://img.shields.io/badge/npm-%3E%3D6.0.0-orange.svg?style=plastic)
 
-> OpenInfoGraphic implemetation of Crypto Currency Arbitrage Trading
-[Arbitrage](https://github.com/OpenInfoGraphic/Arbitrage) specification
+> paulplayer implemetation of Crypto Currency Arbitrage Trading
+[Arbitrage](https://github.com/paulplayer/Arbitrage) specification
 
 > 维护者:
 [Paul Zhang](https://github.com/paulplayer)
@@ -85,9 +85,10 @@ Write your account info in the username="" and password)="" in config.json file,
 ```JavaScript
 > $ npm start
 ```
+
 Console Output :
 ```JavaScript
-> Arbitrage@0.0.0 start /home/paul/Projects/OpenInfoGraphic/Code/Arbitrage
+> Arbitrage@0.0.0 start ./Arbitrage
 > node ./src/cli/index.js
 
 Welcome to Arbitrage, select your function:
@@ -273,7 +274,7 @@ ADA	 0	 -
 
 ## 3. Contribute
 
-Contributions welcome. Please check out [the issues](https://github.com/OpenInfoGraphic/Arbitrage/issues).
+Contributions welcome. Please check out [the issues](https://github.com/paulplayer/Arbitrage/issues).
 
 ## 4. 致谢
 
@@ -288,7 +289,7 @@ Contributions welcome. Please check out [the issues](https://github.com/OpenInfo
 
 Cryptocurrency is welcomed.
 
-[ETH](#): 0x16EEbbA3A0aa82825c5b3E35EF15E3aCec6450a3
+[ETH](#): 0x007060e235b6B5954B41F72c4e2c24976F601FBa
 
 ## 6. License
 
